@@ -3,3 +3,4 @@ Gits
 he
 変更2
 git status
+diff
