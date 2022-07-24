@@ -2,3 +2,4 @@ Gits
 変更1
 he
 変更2
+git status
